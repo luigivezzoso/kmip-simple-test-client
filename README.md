@@ -7,7 +7,7 @@ The tool execute the following tasks:
 - generate a symetric AES256 Key (using random name)
 - activate the new key
 - revoke the new key
-- detroy the key
+- destroy the key
 - close the connection
 - print the time required to complete all the steps
 
